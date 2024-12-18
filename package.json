@@ -1,17 +1,17 @@
 {
 	"name": "eslint-plugin-paths",
-	"description": "A plugin for ESLint, to force use paths aliases from tsconfig",
+	"description": "This is a fork of https://github.com/vitonsky/eslint-plugin-paths, with ESLint 7 support. A plugin for ESLint, to force use paths aliases from tsconfig.",
 	"version": "1.1.0",
 	"license": "Apache-2.0",
 	"keywords": ["eslint", "eslintplugin"],
-	"author": "Robert Vitonsky <rob@vitonsky.net> (https://vitonsky.net)",
-	"homepage": "https://github.com/vitonsky/eslint-plugin-paths#readme",
+	"author": "David Václavek <vaclavek.dvd@gmail.com>",
+	"homepage": "https://github.com/david-vaclavek/eslint-plugin-paths#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/vitonsky/eslint-plugin-paths.git"
+		"url": "git+https://github.com/david-vaclavek/eslint-plugin-paths.git"
 	},
 	"bugs": {
-		"url": "https://github.com/vitonsky/eslint-plugin-paths/issues"
+		"url": "https://github.com/david-vaclavek/eslint-plugin-paths/issues"
 	},
 	"scripts": {
 		"test": "jest",
