@@ -1,5 +1,5 @@
 {
-	"name": "eslint-plugin-paths-dv",
+	"name": "@david-vaclavek/eslint-plugin-paths",
 	"description": "This is a fork of https://github.com/vitonsky/eslint-plugin-paths, with ESLint 7 support. A plugin for ESLint, to force use paths aliases from tsconfig.",
 	"version": "1.1.5",
 	"license": "Apache-2.0",
