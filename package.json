@@ -13,7 +13,6 @@
 	"bugs": {
 		"url": "https://github.com/david-vaclavek/eslint-plugin-paths/issues"
 	},
-	"files": ["dist"],
 	"scripts": {
 		"test": "jest",
 		"test-fast": "TEST_FAST=true jest",
